@@ -26,3 +26,4 @@ if __name__ == "__main__":
     # testando carro corrida
     carro_corrida = CarroCorrida(100)
     test_drive(carro_corrida)
+    
